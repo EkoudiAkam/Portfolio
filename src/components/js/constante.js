@@ -174,7 +174,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/EkoudiAkam/Portfolio.git",
     },
     {
       name: "REsto",
@@ -195,7 +195,7 @@ import {
         },
       ],
       image: resto,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/EkoudiAkam/REsto.git",
     },
   ];
   
